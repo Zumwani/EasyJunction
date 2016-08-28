@@ -1,0 +1,45 @@
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.exe.config
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.exe
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.xml
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.pdb
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.exe
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.pdb
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.xml
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\MahApps.Metro.dll
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\MahApps.Metro.pdb
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\MahApps.Metro.xml
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\JunctionWizardWindow.g.vb
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\SetupWindow.g.vb
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction_MarkupCompile.cache
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction_MarkupCompile.lref
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\JunctionWizardWindow.baml
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\SetupWindow.baml
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.g.resources
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.vbproj.GenerateResource.Cache
+C:\Users\andre\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Zumwani.EasyJunction.Resources.resources
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Zumwani.EasyJunction.Resources.resources
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.vbproj.GenerateResource.Cache
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Windows\JunctionWizardWindow.g.vb
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Windows\SetupWindow.g.vb
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Windows\JunctionWizardWindow.baml
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Windows\SetupWindow.baml
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Windows\InstallWindow.g.vb
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Windows\InstallWindow.baml
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.exe.config
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.exe
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.pdb
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\bin\Debug\EasyJunction.xml
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction_MarkupCompile.cache
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction_MarkupCompile.lref
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.g.resources
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.exe
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.xml
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.pdb
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.vbprojResolveAssemblyReference.cache
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Cloud Services\Dropbox\Projects\EasyJunction\EasyJunction\obj\Debug\EasyJunction.vbproj.ResolveComReference.cache

@@ -1,0 +1,115 @@
+﻿<Window x:Class="SetupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Zumwani.EasyJunction"
+        Width="450" Height="480"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded" KeyUp="Window_KeyUp"
+        Icon="../Assets/icon.ico" ResizeMode="NoResize" ShowInTaskbar="False" Topmost="True">
+
+    <Window.Resources>
+
+        <Storyboard x:Key="IsItemInstalledCheckboxShowAnimation">
+            <DoubleAnimation Storyboard.TargetName="IsItemInstalledCheckBox" Storyboard.TargetProperty="Width"
+                             To="50"/>
+        </Storyboard>
+
+        <Storyboard x:Key="IsItemInstalledCheckboxHideAnimation">
+            <DoubleAnimation Storyboard.TargetName="IsItemInstalledCheckBox" Storyboard.TargetProperty="Width"
+                             To="0"/>
+        </Storyboard>
+
+    </Window.Resources>
+    
+    <Grid>
+        
+        <TextBlock Text="Setting up Easy Junction" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="40" FontSize="24" FontFamily="Segoe UI Light"/>
+
+        <Grid Margin="60,100,0,60" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="280"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="48"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+
+                <TextBlock>
+                    <Run FontSize="16" Text="Install Easy Junction"/>
+                    <LineBreak/>
+                    <Run Text="Install Easy Junction to a more permanent location."/>
+                </TextBlock>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="UpgradeAppLink" Margin="0,0,5,0">
+                        <Hyperlink Click="UpgradeAppLink_Click">
+                            Upgrade app
+                        </Hyperlink>
+                    </TextBlock>
+                    <TextBlock x:Name="DowngradeAppLink" Margin="0,0,5,0">
+                        <Hyperlink Click="DowngradeAppLink_Click">
+                            Downgrade app
+                        </Hyperlink>
+                    </TextBlock>
+                    <TextBlock x:Name="InstallAppLink">
+                        <Hyperlink Click="InstallAppLink_Click">
+                            Install app
+                        </Hyperlink>
+                    </TextBlock>
+                    <TextBlock x:Name="UninstallAppLink">
+                        <Hyperlink Click="UninstallAppLink_Click">
+                            Uninstall app
+                        </Hyperlink>
+                    </TextBlock>
+                </StackPanel>
+
+            </StackPanel>
+
+            <TextBlock x:Name="IsAppInstalledCheckBox" Grid.Row="0" Grid.Column="2" Text="✓" FontSize="64" VerticalAlignment="Top" Margin="0,-20,0,0" Width="50"/>
+
+            <StackPanel Grid.Row="2">
+
+                <TextBlock TextWrapping="Wrap">
+                    <Run FontSize="16" Text="Install context menu item"/>
+                    <LineBreak/>
+                    <Run FontSize="12" Text="Install the 'Create new junction point' item to folder context menu."/>
+                </TextBlock>
+                <TextBlock x:Name="InstallItemLink" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Hyperlink Click="InstallItemLink_Click">
+                        Install item
+                    </Hyperlink>
+                </TextBlock>
+                <TextBlock x:Name="UninstallItemLink" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Hyperlink Click="UninstallItemLink_Click">
+                        Uninstall item
+                    </Hyperlink>
+                </TextBlock>
+            </StackPanel>
+
+            <TextBlock x:Name="IsItemInstalledCheckBox" Grid.Row="2" Grid.Column="2" Text="✓" FontSize="64" VerticalAlignment="Top" Margin="0,-20,0,0" Width="0" HorizontalAlignment="Left"/>
+
+            <StackPanel Grid.Row="5">
+
+                <TextBlock>
+                    <Run Text="What's next?" FontSize="16"/>
+                    <LineBreak/>
+                    <TextBlock FontSize="12" TextWrapping="Wrap">
+                        <Run Text="That's it, you can now close the app and create junctions directly from the folder context menu."/>
+                    </TextBlock>
+ 
+                </TextBlock>
+
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+
+</Window>
